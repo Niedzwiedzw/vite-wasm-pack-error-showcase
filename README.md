@@ -1,5 +1,10 @@
 # vite-wasm-pack-error-showcase
-run 
+
+to run this project you need node and rust (https://rustup.rs/) set up. 
+once you have both, you need `wasm-pack` https://rustwasm.github.io/wasm-pack/installer/ 
+
+
+then you should be able to run (tested on linux only, should work on mac) 
 ```bash
 ./build-everything-and-run.sh
 ```
